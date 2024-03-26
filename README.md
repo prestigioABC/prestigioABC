@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning git, github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : yangchenkarina200@gmail.com
+- 📫 How to reach me : link
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't speak English
 
